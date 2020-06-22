@@ -1,0 +1,28 @@
+{
+    "name": "todoapi",
+    "version": "1.0.0",
+    "description": "Angular JWT Todo API Server",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sebastian Schocke",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "cors": "^2.8.5",
+        "express": "^4.15.3",
+        "express-jwt": "^5.3.1",
+        "fs": "0.0.1-security",
+        "json2csv": "^5.0.0",
+        "json2xls": "^0.1.2",
+        "jsonwebtoken": "^8.3.0",
+        "lodash": "^4.17.4",
+        "mongodb": "^3.5.7",
+        "node-fetch": "^2.6.0",
+        "nodemon": "^2.0.2",
+        "pg": "^7.18.2",
+        "pm2": "^4.2.3",
+        "socket.io": "^2.3.0"
+    }
+}

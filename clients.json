@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "username": "a",
+    "password": "1",
+    "group":"kha",
+    "email":"aka"
+},
+{
+    "id": 2,
+    "username": "ahmad",
+    "password": "123456",
+    "group":"kha",
+    "email":"aka"
+},
+{
+    "id": 3,
+    "username": "kaka",
+    "password": "3",
+    "group":"kha",
+    "email":"aka"
+}]
