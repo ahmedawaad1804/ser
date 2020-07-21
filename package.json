@@ -17,7 +17,7 @@
         "json2csv": "^5.0.0",
         "json2xls": "^0.1.2",
         "jsonwebtoken": "^8.3.0",
-        "lodash": "^4.17.4",
+        "lodash": "^4.17.19",
         "mongodb": "^3.5.7",
         "node-fetch": "^2.6.0",
         "nodemon": "^2.0.2",
